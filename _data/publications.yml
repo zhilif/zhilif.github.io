@@ -1,0 +1,187 @@
+main:
+  - title: "Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws"
+    authors: Yiding Jiang*, Allan Zhou*, Zhili Feng, Sadhika Malladi, J. Zico Kolter
+    conference_short: Under Review
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2410.11820
+    # code: N/A
+    # bibtex: N/A
+    # image: ./assets/img/ado.png
+
+  - title: Adapting Language Models via Token Translation
+    authors: Zhili Feng, Tanya Marwah, Nicolo Fusi, David Alvarez-Melis, Lester Mackey
+    conference_short: Under Review
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2411.00593
+    # code: N/A
+    # bibtex: N/A
+    # image: ./assets/img/adapting-lm.png
+
+  - title: Improving Zero-Shot Reasoning using Dynamic Non-Verbal Tokens
+    authors: Tanya Marwah, Zhili Feng, Lester Mackey, Nicolo Fusi, David Alvarez-Melis
+    conference_short: N/A
+    conference: Under Review
+    # pdf: N/A
+    # code: N/A
+    # bibtex: N/A
+    # image: ./assets/img/nonverbal.png
+
+  # - title: "RankCLIP: Ranking-Consistent Language-Image Pretraining"
+  #   authors: Yiming Zhang, Zhuokai Zhao, Zhaorun Chen, Zhili Feng, Zenghui Ding, Yining Sun
+  #   conference_short: arXiv
+  #   conference: arXiv preprint, 2024
+  #   pdf: https://arxiv.org/pdf/2404.09387.pdf
+  #   code: N/A
+  #   bibtex: N/A
+  #   image: N/A
+
+  - title: Rethinking LLM Memorization through the Lens of Adversarial Compression
+    authors: Avi Schwarzschild, Zhili Feng, Pratyush Maini, Zachary C Lipton, J. Zico Kolter
+    conference_short: NeurIPS 2024
+    conference: Advances in Neural Information Processing Systems (NeurIPS), 2024
+    notes: 
+      - Best Paper Award, Workshop on Data Contamination (CONDA) @ ACL 2024
+      - Oral Presentation, Red Teaming GenAI Workshop @ NeurIPS 2024
+    pdf: https://arxiv.org/abs/2404.15146
+    # code: N/A
+    # bibtex: N/A
+    # image: ./assets/img/acr.png
+
+  - title: "TOFU: A Task of Fictitious Unlearning for LLMs"
+    authors: Pratyush Maini, Zhili Feng, Avi Schwarzschild, Zachary C Lipton, J. Zico Kolter
+    conference_short: Language Modeling
+    conference: Conference on Language Modeling, 2024
+    pdf: https://arxiv.org/abs/2401.06121
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+    notes: Spotlight presentation, Workshop on Secure and Trustworthy Large Language Models @ ICLR 2024
+
+  # - title: An Axiomatic Approach to Model-Agnostic Concept Explanations
+  #   authors: Zhili Feng, Michal Moshkovitz, Dotan Di Castro, J. Zico Kolter
+  #   conference_short: arXiv
+  #   conference: arXiv preprint, 2024
+  #   pdf: https://arxiv.org/pdf/2401.06890.pdf
+  #   code: N/A
+  #   bibtex: N/A
+  #   # image: N/A
+
+  # - title: Sequence-level Large Language Model Training with Contrastive Preference Optimization
+  #   authors: Zhili Feng, Dhananjay Ram, Cole Hawkins, Aditya Rawal, Jinman Zhao
+  #   conference_short: N/A
+  #   conference: In submission, 2023
+  #   pdf: N/A
+  #   code: N/A
+  #   bibtex: N/A
+  #   image: N/A
+
+  - title: Text Descriptions are Compressive and Invariant Representations for Visual Learning
+    authors: Zhili Feng, Anna Bair, J. Zico Kolter
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research (TMLR), 2024
+    pdf: https://arxiv.org/abs/2307.04317
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+
+  - title: Monotone Deep Boltzmann Machines
+    authors: Zhili Feng, Ezra Winston, J. Zico Kolter
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research (TMLR), 2023
+    pdf: https://arxiv.org/abs/2307.04990
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+
+  - title: On the Neural Tangent Kernel of Equilibrium Models
+    authors: Zhili Feng, J. Zico Kolter
+    # conference_short: arXiv
+    conference: https://arxiv.org/abs/2310.14062
+    pdf: https://arxiv.org/abs/2310.14062
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+
+  - title: Provable Adaptation across Multiway Domains via Representation Learning
+    authors: Zhili Feng, Shaobo Han, Simon S Du
+    conference_short: ICLR
+    conference: International Conference on Learning Representations (ICLR), 2022
+    pdf: https://arxiv.org/abs/2106.06657
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+
+  - title: Non-PSD Matrix Sketching with Applications to Regression and Optimization
+    authors: Zhili Feng, Fred Roosta, David P Woodruff
+    conference_short: UAI
+    conference: Conference on Uncertainty in Artificial Intelligence (UAI), 2021
+    pdf: https://arxiv.org/abs/2106.08544
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+
+  - title: Learning-Augmented k-means Clustering
+    authors: Jon Ergun, Zhili Feng, Sandeep Silwal, David P Woodruff, Samson Zhou
+    conference_short: ICLR
+    conference: International Conference on Learning Representations (ICLR), 2022
+    pdf: https://arxiv.org/abs/2110.14094
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+    notes: Spotlight Presentation
+
+  - title: Dimensionality Reduction for the Sum-of-Distances Metric
+    authors: Zhili Feng, Praneeth Kacham, David P Woodruff
+    conference_short: ICML
+    conference: International Conference on Machine Learning (ICML), 2021
+    pdf: https://proceedings.mlr.press/v139/feng21a/feng21a.pdf
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+    notes: Oral Presentation
+
+  - title: Does Data Augmentation Lead to Positive Margin?
+    authors: Shashank Rajput*, Zhili Feng*, Zachary B Charles, Po-Ling Loh, Dimitris S Papailiopoulos
+    conference_short: ICML
+    conference: International Conference on Machine Learning (ICML), 2019
+    pdf: https://arxiv.org/abs/1905.03177
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+    notes: Oral Presentation
+
+  - title: Online Learning with Graph-Structured Feedback against Adaptive Adversaries
+    authors: Zhili Feng, Po-Ling Loh
+    conference_short: ISIT
+    conference: IEEE International Symposium on Information Theory (ISIT), 2018
+    pdf: https://arxiv.org/abs/1804.00335
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+
+  - title: Joint Reasoning for Temporal and Causal Relations
+    authors: Qiang Ning, Zhili Feng, Hao Wu, Dan Roth
+    conference_short: ACL
+    conference: Annual Meeting of the Association for Computational Linguistics (ACL), 2018
+    pdf: https://aclanthology.org/P18-1212/
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+
+  - title: "CogCompTime: A Tool for Understanding Time in Natural Language"
+    authors: Qiang Ning, Ben Zhou, Zhili Feng, Haoruo Peng, Dan Roth
+    conference_short: EMNLP
+    conference: Empirical Methods in Natural Language Processing (EMNLP), 2018
+    pdf: https://aclanthology.org/D18-2013/
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
+
+  - title: A Structured Learning Approach to Temporal Relation Extraction
+    authors: Qiang Ning, Zhili Feng, Dan Roth
+    conference_short: EMNLP
+    conference: Empirical Methods in Natural Language Processing (EMNLP), 2017
+    pdf: https://aclanthology.org/D17-1108/
+    # code: N/A
+    # bibtex: N/A
+    # image: N/A
