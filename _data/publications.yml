@@ -36,7 +36,7 @@ main:
   #   image: N/A
 
   - title: Rethinking LLM Memorization through the Lens of Adversarial Compression
-    authors: Avi Schwarzschild, Zhili Feng, Pratyush Maini, Zachary C Lipton, J. Zico Kolter
+    authors: Avi Schwarzschild*, Zhili Feng*, Pratyush Maini, Zachary C Lipton, J. Zico Kolter
     conference_short: NeurIPS 2024
     conference: Advances in Neural Information Processing Systems (NeurIPS), 2024
     notes: 
@@ -48,7 +48,7 @@ main:
     # image: ./assets/img/acr.png
 
   - title: "TOFU: A Task of Fictitious Unlearning for LLMs"
-    authors: Pratyush Maini, Zhili Feng, Avi Schwarzschild, Zachary C Lipton, J. Zico Kolter
+    authors: Pratyush Maini*, Zhili Feng*, Avi Schwarzschild*, Zachary C Lipton, J. Zico Kolter
     conference_short: Language Modeling
     conference: Conference on Language Modeling, 2024
     pdf: https://arxiv.org/abs/2401.06121
